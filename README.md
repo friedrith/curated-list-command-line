@@ -26,6 +26,10 @@ Git is one of the most famous command line tool.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html)
 - [iTerm2](https://www.iterm2.com/)
 
+## Ssh
+
+- [For macOS](https://apple.stackexchange.com/questions/254468/macos-sierra-doesn-t-seem-to-remember-ssh-keys-between-reboots)
+
 ## Various
 
 - [Z script](https://github.com/rupa/z)

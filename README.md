@@ -19,12 +19,18 @@ Git is one of the most famous command line tool.
 
 - [alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 - [hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
-- [husky](https://github.com/typicode/husky): configure git hooks for your node.js projects
+- [husky](https://github.com/typicode/husky): configure git hooks for your
+  node.js projects
+- [tig](https://jonas.github.io/tig/) (didn't test it yet)
 
 ## Terminals
 
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html)
 - [iTerm2](https://www.iterm2.com/)
+
+## Node, npm and yarn
+
+- https://github.com/BuonOmo/yarn-completion
 
 ## Ssh
 
@@ -37,3 +43,6 @@ Git is one of the most famous command line tool.
 ## Others
 
 - https://www.fossmint.com/alternative-terminal-apps-for-macos/
+- [Invest in your
+  terminal](https://www.mokacoding.com/blog/invest-in-your-terminal-to-become-a-better-developer/)
+- https://jilles.me/badassify-your-terminal-and-shell/
